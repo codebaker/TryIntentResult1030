@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TryIntentResult1030</string>
+    <string name="refrigerator">냉장고 : </string>
+    <string name="eaSection">칸수 : </string>
+</resources>
